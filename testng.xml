@@ -4,6 +4,7 @@
   <test verbose="2" name="Default test">
     <classes>
       <class name="test.NewTest"/>
+      <class name="test.FirstScript"/>
     </classes>
   </test> <!-- Default test -->
 </suite> <!-- Default suite -->
